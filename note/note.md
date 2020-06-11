@@ -1,6 +1,6 @@
-commends
-  deno run --allow-net server.ts
-  deno --version
+h2 commends
+  <p>deno run --allow-net server.ts</p>
+  <p>deno --version</p>
 
 vscode Shortcut key
   ctrl shift ` open the terminal
