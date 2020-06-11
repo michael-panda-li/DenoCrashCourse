@@ -26,20 +26,20 @@
     <p>introduction</p>
 
   <h3>video 1</h3>
-    0. setup
-    1. structure the project(planning and organization)
-    2. hello world (deno)
-    3. middleware (oak)
+    <p>0. setup</p>
+    <p>1. structure the project(planning and organization)</p>
+    <p>2. hello world (deno)</p>
+    <p>3. middleware (oak)</p>
 
   <h3>video 2</h3>
-    4. router
-      navigation through different url
-    5. controller 
-      deal with paramaters
-      send stuff back to client
-    6. service
-      data operation 
-      db related functions
+    <p>4. router</p>
+      <p>  navigation through different url</p>
+    <p>5. controller</p> 
+      <p>  deal with paramaters</p>
+      <p>  send stuff back to client</p>
+    <p>6. service</p>
+      <p>  data operation</p> 
+      <p>  db related functions</p>
 
 
 
