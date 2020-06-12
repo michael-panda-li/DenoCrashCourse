@@ -1,3 +1,5 @@
+import todos from "../data/todos.ts";
+
 export default {
   test: ({response}: {response: any}) => {
     response.status = 200;
@@ -5,8 +7,11 @@ export default {
       message: "hello deno"
     }
   },
-  getAllTodos: () => {
-
+  getAllTodos: ({response}: {response: any}) => {
+    response.status = 200;
+    response.body = {
+      data: todos,
+    }
   },
   createTodo: () => {
     
